@@ -30,18 +30,6 @@ A página apresenta:
 - JavaScript
 - [Open-Meteo API](https://open-meteo.com/en/docs): API pública e gratuita de previsão do tempo
 
-## Como executar
-
-O projeto é um único arquivo, sem instalação de nada:
-
-1. Baixe ou clone este repositório
-2. Abra o arquivo `index.html` no navegador
-
-Para a seção de chuva em tempo real funcionar, é preciso ter conexão com a internet.
-
-```bash
-git clone https://github.com/kauetheduques/infrasjc.git
-```
 
 ## Autor
 
